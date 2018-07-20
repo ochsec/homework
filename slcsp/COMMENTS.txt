@@ -1,0 +1,4 @@
+Installation/run instructions
++ install node.js 7.6+
++ run npm install
++ run npm start
