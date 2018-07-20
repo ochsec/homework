@@ -1,0 +1,21 @@
+Requirements:
++ Python 3
++ Pip
+
+Instructions for running the script:
+1. If preferred, create a virtual environment for the project
+$ python -m venv env
+2. Activate the environment
+Linux and OSX
+source env/bin/activate
+Windows
+.\env\Scripts\activate
+
+2. Install the package dependencies
+$ pip install requests rx
+
+3. In the script, make sure AUTH_URL and USERS_URL point to the 
+correct hostname and port
+
+4. Run the script
+$ python script.py
